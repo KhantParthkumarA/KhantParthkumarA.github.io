@@ -83,7 +83,7 @@ export const projects = {
 			icons: [
 				{
 					icon: faGlobe,
-					link: "https://github.com/KhantParthkumarA/parthkumar-portfolio",
+					link: "https://khantparthkumar.github.io",
 				},
 			],
 		},
