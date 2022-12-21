@@ -22,7 +22,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
+			link: "https://docs.google.com/document/d/1Y9mQS8jBaAt504fk7Iu5ZlUZUh-i2n7EFIafNz_k6Q4/edit?usp=sharing",
 			isPrimary: false,
 		},
 	],
