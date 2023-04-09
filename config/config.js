@@ -1,4 +1,4 @@
-import profile from "./profile.jpg";
+import profile from "./50316081.jpeg";
 import {
 	faGithub,
 	faLinkedin,
